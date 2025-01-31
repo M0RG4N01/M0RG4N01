@@ -11,7 +11,7 @@
 - 👨‍💻 **Full Stack Software Engineer** with a passion for **Cloud, DevOps,** and **Automation**.  
 - 🚀 I love working with both **Java (Quarkus)** and **C# .NET (Blazor)** to build reliable, scalable applications.  
 - ⚙️ **DevOps & Cloud** enthusiast experienced in **Kubernetes**, **OpenShift**, **AWS**, and more.  
-- 🌱 Currently exploring new technologies to enhance my skills in **.NET (Blazor)**, **Reactive Java**, and **Greylog**.
+- 🌱 Currently exploring new technologies to enhance my skills in **.NET (Blazor)**, **Reactive Java**, and **Graylog**.
 
 ---
 
