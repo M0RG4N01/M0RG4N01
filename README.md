@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### 🔹 **Languages & Frameworks**
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -48,6 +48,12 @@
 [![Impala](https://img.shields.io/badge/Impala-01529E.svg?style=for-the-badge&logoColor=white)](https://impala.apache.org/)
 [![Jacobi](https://img.shields.io/badge/Jacobi-%232B2B2B?style=for-the-badge&logoColor=white)](https://www.jacobistrategies.com/)
 
+### 🔹 **ORM & Data Access**
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![Panache](https://img.shields.io/badge/Quarkus%20Panache-0456A0.svg?style=for-the-badge&logo=quarkus&logoColor=white)](https://quarkus.io/guides/hibernate-orm-panache)
+[![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
+
+
 ---
 
 ## 🚀 What I'm Working On
@@ -62,17 +68,18 @@
 
 ## 🌟 Highlighted Projects
 
-1. **TCAdminMySqlModule**  
+- **TCAdminMySqlModule**  
    *MySql Module allows hosts to let clients interact with their MySQL database, provided by the host.*
 
-2. **STRP (Space Turtles)**  
+- **STRP (Space Turtles)**  
    *STRP is an online roleplay gaming community created using the CitizenFX.re platform.*
+
+- **LGIM Audit Service**  
+  *An auditing service designed to process and index messages from ActiveMQ into AWS OpenSearch, replacing an outdated self-hosted system at LGIM. The service was built using Quarkus, Apache Camel, and AWS-managed services to improve scalability, reduce operational costs, and enhance performance.*
 
 ---
 
-## 📬 Let's Connect!
+## 📡 Let's Connect!
 
 - **LinkedIn**: [Morgan McNeil](https://www.linkedin.com/in/morgan-mcneil-a84455177/)  
 - **GitHub**: [M0RG4N01](https://github.com/M0RG4N01)
-
-Feel free to reach out if you'd like to collaborate or discuss anything tech!
